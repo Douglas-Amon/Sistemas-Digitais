@@ -1,0 +1,13 @@
+# Arquivos gerados pelo Quartus II e simuladores
+**/db/
+**/incremental_db/
+**/output_files/
+**/simulation/
+*.qws
+*.bak
+*.temp
+*.rpt
+*.sof
+*.pof
+*.jdi
+*.smsg
