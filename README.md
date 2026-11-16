@@ -1,4 +1,6 @@
-# Laboratórios de Circuitos Digitais
+# Laboratórios de Circuitos Digitais.
+### Teste de contribuição
+
 
 Repositório com os projetos desenvolvidos em VHDL no Quartus II, organizados por laboratório.
 
